@@ -1,4 +1,4 @@
-# abletonPatcher - O que é isto?
+# abletonKeyGen - O que é isto?
 
 Esta é uma implementação de código aberto do patch R2R e do `R2RLIVE.dll` do Ableton Live, escrita em Python.
 
