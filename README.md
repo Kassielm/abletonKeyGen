@@ -4,6 +4,9 @@ Esta é uma implementação de código aberto do patch R2R e do `R2RLIVE.dll` do
 
 Resolvi facilitar esse processo para as pessoas terem um acesso confiavel, e sem necessidade de gastar dinheiro como vejo todos em tutoriais do YouTube cobrando.
 
+Fiz também um video explicativo, o link vai estar abaixo
+[Youtube](https://www.youtube.com/watch?v=jcAoUUYkmOU)
+
 Assim como o `R2RLIVE.dll`, este script usa apenas a chave de assinatura da Team R2R.
 
 ## Aviso
